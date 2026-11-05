@@ -1,0 +1,6 @@
+<CommunityApplications>
+  <Profile>
+    This repository contains the **Container View** plugin: it groups and filters Unraid's Docker Containers list and Dashboard tile by category (container label or category rules), instead of hand-maintained folders. It's a small, personal-use utility shared in case others find it useful — see the repository README for details, and the Project link for support.
+  </Profile>
+  <WebPage>https://github.com/marching-poozer/unraid-container-view</WebPage>
+</CommunityApplications>
